@@ -21,7 +21,7 @@ Leaflet
 
 ## Como Correr el Proyecto
 
-El proyecto esta dividido en dos capas: la capa frontEnde desarrollada en react con el boletTemplae de react, y la otra capa, la capa backEnd esta en node con express para montar la api rest.
+El proyecto esta dividido en dos capas: la capa frontEnd desarrollada en react con el boletTemplae de react, y la capa backEnd, que está en node con express.
 
 ### Prender el servidor capa BackEnd
 
@@ -65,7 +65,7 @@ Luego prender el servidor con el comando:
 ```
 npm start
 ```
-Esta capa está disponible en el puerto 3000, por lo cual para abrir erl proyecto en el navegado es necesario colocar la siguiente url:
+Esta capa está disponible en el puerto 3000, por lo cual para abrir er proyecto en el navegador, es necesario colocar la siguiente url:
 
 ```
 http://localhost:3000/
